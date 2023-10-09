@@ -1,0 +1,7 @@
+1. PySpark
+2. SQL
+3. MS Azure Services
+4. Data Factory pipeline
+5. datasets
+6. Power bi
+7. Data Bricks
