@@ -2,11 +2,11 @@
 
 One other large datasets can be download from here: [Click Here:](https://www.kaggle.com/datasets/aakash15071996/airlinedatasets)
 
-#### **Tools-** Data Bricks and My SQL
+* **Tools-** Data Bricks and My SQL
 
-#### **Launguage-** Python and SQL
+* **Launguage-** Python and SQL
 
-#### **Technology-** MicroSoft Azure and Spark
+* **Technology-** MicroSoft Azure and Spark
 
 # **The Architecture of project**
 
